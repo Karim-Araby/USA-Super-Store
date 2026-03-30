@@ -48,7 +48,7 @@ Provides a high-level summary of business performance with major KPIs:
 - **Average Discount:** 15.62%
 - **Return Rate:** 8.06%
 
-- Includes:
+ **Includes:**
 - Sales trend by year
 - Sales by top states
 - Sales by region
